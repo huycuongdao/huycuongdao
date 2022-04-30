@@ -4,7 +4,9 @@ Hi 👋 My name is Cuong Dao
 Frontend Developer
 ------------------
 
-I am a front end developer with 5+ years of experience designing and developing professional web apps using the latest frontend technology like Reactjs, Nextjs... - Notable achievements include built mangarock.com from 0 user to 13+ millions user monthly worldwide; building inkr.com from 0 user to 100k user monthly.
+I am a front end developer with 5+ years of experience designing and developing professional web apps using the latest frontend technology like Reactjs, Nextjs... 
+
+Notable achievements include built mangarock.com from 0 user to 13+ millions user monthly worldwide; building inkr.com from 0 user to 100k user monthly.
 
 *   🌍  I'm based in Ho Chi Minh City, Vietnam
 *   ✉️  You can contact me at [daohuycuong92@gmail.com](mailto:daohuycuong92@gmail.com)

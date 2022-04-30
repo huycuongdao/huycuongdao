@@ -39,8 +39,7 @@ I am a front end developer with 5+ years of experience designing and developing 
                     
 ### Socials
 
-<p align="left">
-                          
+<p align="left">    
                       <a href="https://www.github.com/huycuongdao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
                       <a href="https://www.linkedin.com/in/cuong-dao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>

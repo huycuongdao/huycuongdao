@@ -34,7 +34,8 @@ I am a front end developer with 5+ years of experience designing and developing 
                                 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
                     </p>
                     
-                  ### Socials
+### Socials
+
                   
                   
                 <p align="left">
@@ -43,4 +44,5 @@ I am a front end developer with 5+ years of experience designing and developing 
                           
                       <a href="https://www.linkedin.com/in/cuong-dao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitter.com/huycuongdao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+                      <a href="https://www.twitter.com/huycuongdao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+                      </p>

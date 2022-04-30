@@ -10,7 +10,10 @@ I am a front end developer with 5+ years of experience designing and developing 
 *   ✉️  You can contact me at [daohuycuong92@gmail.com](mailto:daohuycuong92@gmail.com)
 *   🚀  I'm currently working on [INKR Global](http://inkr.com)
 *   🧠  I'm learning Web3
-*   🤝  I'm open to collaborating on Reactjs projects### Skills<p align="left">
+*   🤝  I'm open to collaborating on Reactjs projects
+
+### Skills
+<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -36,13 +39,11 @@ I am a front end developer with 5+ years of experience designing and developing 
                     
 ### Socials
 
-                  
-                  
-                <p align="left">
+<p align="left">
                           
                       <a href="https://www.github.com/huycuongdao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
                       <a href="https://www.linkedin.com/in/cuong-dao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
                       <a href="https://www.twitter.com/huycuongdao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-                      </p>
+</p>

@@ -10,7 +10,6 @@ Notable achievements include built mangarock.com from 0 user to 13+ millions use
 
 *   🌍  I'm based in Ho Chi Minh City, Vietnam
 *   ✉️  You can contact me at [daohuycuong92@gmail.com](mailto:daohuycuong92@gmail.com)
-*   🚀  I'm currently working on [INKR Global](http://inkr.com)
 *   🧠  I'm learning Web3
 *   🤝  I'm open to collaborating on Reactjs projects
 
